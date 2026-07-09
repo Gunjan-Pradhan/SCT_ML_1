@@ -126,5 +126,7 @@ A comparison of actual and predicted house prices was generated and saved in:
 ```text
 predicted_vs_actual.csv
 ```
+![image alt](https://github.com/Gunjan-Pradhan/SCT_ML_1/blob/da7f847004ed9852d95e5c86ad8bb1c83d69bc73/Screenshot%202026-07-09%20214043.png)
 
+![image alt](https://github.com/Gunjan-Pradhan/SCT_ML_1/blob/da7f847004ed9852d95e5c86ad8bb1c83d69bc73/Screenshot%202026-07-09%20214708.png)
 
