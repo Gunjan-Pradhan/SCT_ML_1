@@ -40,7 +40,7 @@ The cleaned dataset was saved as:
 
 ```text
 simplified_house_data.csv
-
+```
 
 # Results - House Price Prediction using Linear Regression
 
